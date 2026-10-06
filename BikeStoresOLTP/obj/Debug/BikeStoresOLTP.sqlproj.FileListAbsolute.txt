@@ -1,0 +1,6 @@
+C:\temp\Demo\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.dacpac
+C:\temp\Demo\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.dll
+C:\temp\Demo\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.pdb
+C:\temp\Demo\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.sqlproj.AssemblyReference.cache
+C:\temp\Demo\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.dll
+C:\temp\Demo\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.pdb
