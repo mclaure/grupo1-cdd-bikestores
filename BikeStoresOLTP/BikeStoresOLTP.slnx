@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="BikeStoresOLTP.sqlproj">
+  <Project Path="BikeStoresOLTP.sqlproj" Id="f78f14a5-cd5d-4597-a480-0f40165ee68a">
     <Build />
     <Deploy />
   </Project>

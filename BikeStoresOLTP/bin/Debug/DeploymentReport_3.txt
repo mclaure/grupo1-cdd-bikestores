@@ -1,0 +1,17 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [production].[products] (Table)
+       [production].[FK_products_brands] (Foreign Key)
+       [production].[FK_products_categories] (Foreign Key)
+
+** Supporting actions

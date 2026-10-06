@@ -63,5 +63,6 @@
     <Build Include="Tables\brands.sql" />
     <Build Include="Schema\production.sql" />
     <Build Include="Tables\categories.sql" />
+    <Build Include="Tables\products.sql" />
   </ItemGroup>
 </Project>

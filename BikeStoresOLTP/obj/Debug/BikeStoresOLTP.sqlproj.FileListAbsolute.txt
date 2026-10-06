@@ -4,3 +4,9 @@ C:\temp\Demo\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.pdb
 C:\temp\Demo\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.sqlproj.AssemblyReference.cache
 C:\temp\Demo\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.dll
 C:\temp\Demo\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.pdb
+C:\temp\repositorio\grupo1-cdd-bikestores\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.dacpac
+C:\temp\repositorio\grupo1-cdd-bikestores\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.dll
+C:\temp\repositorio\grupo1-cdd-bikestores\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.pdb
+C:\temp\repositorio\grupo1-cdd-bikestores\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.sqlproj.AssemblyReference.cache
+C:\temp\repositorio\grupo1-cdd-bikestores\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.dll
+C:\temp\repositorio\grupo1-cdd-bikestores\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.pdb
